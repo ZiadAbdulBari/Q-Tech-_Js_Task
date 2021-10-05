@@ -1,1 +1,1 @@
-# Q-Tech-_Js_Task
+# Q-Tech_Js_Task
